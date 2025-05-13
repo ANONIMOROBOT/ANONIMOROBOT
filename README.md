@@ -3,7 +3,7 @@
 Meu nome é Renan josé kuk
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me densenvolvendo na linguagem de JavaScprict
+- Estou me densenvolvendo na linguagem de JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
 
